@@ -131,7 +131,7 @@ class QuickSendAmountPage extends StatelessWidget {
                                               fontSize: 48),
                                           textAlign: TextAlign.center,
                                           decoration: InputDecoration(
-                                            hintText: '\$ 00.00',
+                                            hintText: '\PKR 00.00',
                                             hintStyle: TextStyle(
                                                 color: Colors.white30,
                                                 fontSize: 48),

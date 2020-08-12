@@ -167,7 +167,7 @@ class SelectCardPage extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: <Widget>[
                                   Text(
-                                    '\$ ',
+                                    '\PKR ',
                                     style: TextStyle(
                                         fontWeight: FontWeight.bold,
                                         fontSize: 10.0),

@@ -105,7 +105,7 @@ class _UnpaidPageState extends State<UnpaidPage> {
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold
                                       ),),
-                                    trailing: Text('\$ 66.93',style:
+                                    trailing: Text('\PKR 66.93',style:
                                     TextStyle(
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold

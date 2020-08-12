@@ -27,7 +27,7 @@ class ShopProduct extends StatelessWidget {
               ),
             ),
             Text(
-              '\$${product.price}',
+              '\PKR${product.price}',
               textAlign: TextAlign.center,
               style: TextStyle(
                   color: darkGrey, fontWeight: FontWeight.bold, fontSize: 18.0),

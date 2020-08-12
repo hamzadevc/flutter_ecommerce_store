@@ -86,7 +86,7 @@ class _WalletPageState extends State<WalletPage> with TickerProviderStateMixin {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
                             Text(
-                              '\$',
+                              '\PKR ',
                               style: TextStyle(
                                 color: Colors.black,
                                 fontWeight: FontWeight.bold,
@@ -162,7 +162,7 @@ class _WalletPageState extends State<WalletPage> with TickerProviderStateMixin {
                                           width: 110,
                                           height: 110,
                                           child: Center(
-                                              child: Text('\$',
+                                              child: Text('\PKR',
                                                   style: TextStyle(
                                                       color: Color.fromRGBO(
                                                           255, 255, 255, 0.5),

@@ -161,7 +161,7 @@ class ProductCard extends StatelessWidget {
                           color: Color.fromRGBO(224, 69, 10, 1),
                         ),
                         child: Text(
-                          '\$${product.price ?? 0.0}',
+                          '\PKR${product.price ?? 0.0}',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,

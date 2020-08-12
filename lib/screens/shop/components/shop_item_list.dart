@@ -66,7 +66,7 @@ class _ShopItemListState extends State<ShopItemList> {
                                   children: <Widget>[
                                     ColorOption(Colors.red),
                                     Text(
-                                      '\$${widget.product.price}',
+                                      '\PKR${widget.product.price}',
                                       textAlign: TextAlign.center,
                                       style: TextStyle(
                                           color: darkGrey,

@@ -188,7 +188,7 @@ class _PaymentHistoryPageState extends State<PaymentHistoryPage> {
                                                                   children: <
                                                                       Widget>[
                                                                     Text(
-                                                                      '\$ ',
+                                                                      '\PKR ',
                                                                       style: TextStyle(
                                                                           fontWeight:
                                                                               FontWeight
